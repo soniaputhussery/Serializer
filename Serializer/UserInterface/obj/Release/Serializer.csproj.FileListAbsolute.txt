@@ -1,0 +1,10 @@
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\bin\Release\UserInterface.exe.config
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\bin\Release\UserInterface.exe
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\bin\Release\UserInterface.pdb
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\Serializer.csprojAssemblyReference.cache
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\UserInterface.Properties.Resources.resources
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\UserInterface.UserInterface.resources
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\Serializer.csproj.GenerateResource.cache
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\UserInterface.exe
+C:\Users\susan\Desktop\Sonia\Serializer4\Serializer\UserInterface\obj\Release\UserInterface.pdb
